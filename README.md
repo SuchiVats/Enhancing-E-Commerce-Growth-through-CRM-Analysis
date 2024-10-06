@@ -30,8 +30,6 @@ The first step is to clean the dataset and prepare it for analysis by performing
 - **Duplicates:** Removed duplicate entries that may distort customer behavior analysis.
 - **Data Types:** Converted date and transaction-related columns into appropriate data types for easier processing.
   
-You can find the detailed preprocessing code in the [`data_preprocessing.ipynb`](data_preprocessing.ipynb) notebook.
-
 ---
 
 ### 2. **Exploratory Data Analysis (EDA)**
@@ -39,8 +37,6 @@ In this step, we explored the data to uncover key patterns in customer transacti
 - **Popular Shopping Hours:** Identified peak hours for transactions, with most purchases occurring between 12 PM and 3 PM.
 - **Number of Orders by Month and Day:** Analyzed purchasing trends across months and days to understand seasonal spikes.
 - **Average Days Between Purchases:** Measured how frequently customers return to the platform to make a purchase.
-
-Find visualizations and code in the [`eda.ipynb`](eda.ipynb) notebook.
 
 ---
 
@@ -54,7 +50,7 @@ For deeper insights, we engineered customer-centric features to segment the cust
 - **Customer Segmentation:**
   - Segmented customers into categories like **High-Value Customers**, **At-Risk Customers**, and **Loyal Customers** based on their RFM scores.
 
-Check the complete analysis in the [`rfm_analysis.ipynb`](rfm_analysis.ipynb) notebook.
+Check the complete analysis as attached notebook.
 
 ---
 
