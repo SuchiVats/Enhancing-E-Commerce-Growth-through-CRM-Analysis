@@ -1,5 +1,3 @@
-## Enhancing-E-Commerce-Growth-through-CRM-Analysis
-
 # CRM Analysis for E-Commerce: Customer-Centric Insights
 
 ## Project Overview
