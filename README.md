@@ -1,4 +1,4 @@
-## Enhancing-E-Commerce-Growth-through-CRM-Analysis-Data-Driven-Insights-into-Customer-Behaviour
+## Enhancing-E-Commerce-Growth-through-CRM-Analysis
 
 # CRM Analysis for E-Commerce: Customer-Centric Insights
 
